@@ -10,6 +10,10 @@
 * Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)
 * Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation [PDF](https://arxiv.org/pdf/1805.04574.pdf)
 
+## IJCAI 2018
+
+* Collaborative Learning for Weakly Supervised Object Detection [PDF](https://arxiv.org/pdf/1802.03531.pdf)
+
 
 # Fewshot Learning
 
