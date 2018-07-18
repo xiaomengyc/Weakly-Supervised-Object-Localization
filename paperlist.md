@@ -13,6 +13,8 @@
 ## IJCAI 2018
 
 * Collaborative Learning for Weakly Supervised Object Detection [PDF](https://arxiv.org/pdf/1802.03531.pdf)
+* Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval [PDF](http://www.ijcai.org/proceedings/2018/0171.pdf)
+
 
 
 # Fewshot Learning
