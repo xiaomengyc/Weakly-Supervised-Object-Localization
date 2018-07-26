@@ -15,6 +15,9 @@
 * Collaborative Learning for Weakly Supervised Object Detection [PDF](https://arxiv.org/pdf/1802.03531.pdf)
 * Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval [PDF](http://www.ijcai.org/proceedings/2018/0171.pdf)
 
+## ECCV 2018
+Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation [PDF](https://arxiv.org/pdf/1807.09169.pdf) [CODE](https://github.com/briqr/CSPN)
+
 
 
 # Fewshot Learning
