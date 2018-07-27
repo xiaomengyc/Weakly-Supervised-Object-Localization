@@ -47,4 +47,6 @@ Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmenta
 * Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration [PDF](https://arxiv.org/pdf/1805.03857.pdf)
 * Neural Style Transfer via Meta Networks [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Neural_Style_Transfer_CVPR_2018_paper.pdf)
 
+* Few-shot learning of neural networks from scratch by pseudo example optimization [PDF](https://arxiv.org/pdf/1802.03039.pdf)
+
 
