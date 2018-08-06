@@ -21,7 +21,7 @@
 * Joint Learning of Intrinsic Images and Semantic Segmentation [PDF](https://arxiv.org/pdf/1807.11857.pdf)
 
 ### Detection
-* CornerNet: Detecting Objects as Paired Keypoints [PDF](https://arxiv.org/pdf/1808.01244.pdf)[CODE](https://github.com/umich-vl/CornerNet)
+* CornerNet: Detecting Objects as Paired Keypoints [PDF](https://arxiv.org/pdf/1808.01244.pdf) [CODE](https://github.com/umich-vl/CornerNet)
 
 
 
