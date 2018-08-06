@@ -17,6 +17,7 @@
 
 ## ECCV 2018
 Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation [PDF](https://arxiv.org/pdf/1807.09169.pdf) [CODE](https://github.com/briqr/CSPN)
+BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [PDF](https://arxiv.org/pdf/1808.00897.pdf)
 
 
 
