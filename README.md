@@ -19,6 +19,11 @@
 * Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation [PDF](https://arxiv.org/pdf/1807.09169.pdf) [CODE](https://github.com/briqr/CSPN)
 * BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [PDF](https://arxiv.org/pdf/1808.00897.pdf)
 * Joint Learning of Intrinsic Images and Semantic Segmentation [PDF](https://arxiv.org/pdf/1807.11857.pdf)
+* How good is my GAN? [PDF](https://arxiv.org/pdf/1807.09499.pdf)
+* C-WSL: Count-guided Weakly Supervised Localization [PDF](https://arxiv.org/pdf/1711.05282.pdf)
+* Associating Inter-Image Salient Instances for Weakly Supervised Semantic Segmentation [PDF](http://mftp.mmcheng.net/Papers/18ECCVGraphPartition.pdf)
+* Weakly- and Semi-Supervised, Non-Overlapping Instance Segmentation of Things and Stuff
+* On Regularized Losses for Weakly-supervised CNN Segmentation [PDF](https://arxiv.org/pdf/1803.09569.pdf)
 
 ### Detection
 * CornerNet: Detecting Objects as Paired Keypoints [PDF](https://arxiv.org/pdf/1808.01244.pdf) [CODE](https://github.com/umich-vl/CornerNet)
