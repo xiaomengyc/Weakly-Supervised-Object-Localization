@@ -1,4 +1,5 @@
 # Weakly Supervised Object Localization Papers
+*NOTE:* If I missed your paper, plese feel free to raise an issue or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%wsol%papers).
 
 ## 2019
 | Title | Venue | PDF | CODE |
