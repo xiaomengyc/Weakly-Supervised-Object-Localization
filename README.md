@@ -7,6 +7,12 @@
 | Attention-Based Dropout Layer for Weakly Supervised Object Localization | CVPR | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf) | - |
 | Learning Instance Activation Maps for Weakly Supervised Instance Segmentation | CVPR | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) | - |
 | Dual-attention Focused Module for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/ftp/arxiv/papers/1909/1909.04813.pdf) | - |
+| Weakly Supervised Object Localization with Inter-Intra Regulated CAMs | arXiv | [PDF](https://arxiv.org/pdf/1911.07160.pdf) | - |
+| Combinational Class Activation Maps for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/1910.05518.pdf) | - |
+| Multi-scale discriminative Region Discovery for Weakly-Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/1909.10698.pdf) | - |
+| Class Activation Map generation by Multiple Level Class Grouping and Orthogonal Constraint | arXiv | [PDF](https://arxiv.org/pdf/1909.09839.pdf) | - |
+| Weakly Supervised Localization Using Background Images | arXiv | [PDF](https://arxiv.org/pdf/1909.03619.pdf) | - |
+
 
 ## 2018
 | Title | Venue | PDF | CODE |
