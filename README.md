@@ -13,6 +13,7 @@
 | Multi-scale discriminative Region Discovery for Weakly-Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/1909.10698.pdf) | - |
 | Class Activation Map generation by Multiple Level Class Grouping and Orthogonal Constraint | arXiv | [PDF](https://arxiv.org/pdf/1909.09839.pdf) | - |
 | Weakly Supervised Localization Using Background Images | arXiv | [PDF](https://arxiv.org/pdf/1909.03619.pdf) | - |
+| Convolutional STN for Weakly Supervised Object Localization and Beyond | arXiv | [PDF](https://arxiv.org/pdf/1912.01522.pdf) | - |
 
 
 ## 2018
