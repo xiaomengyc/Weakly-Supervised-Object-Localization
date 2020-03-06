@@ -1,6 +1,15 @@
 # Weakly Supervised Object Localization Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/xiaomengyc/Weakly-Supervised-Object-Localization/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%wsol%papers).
 
+## 2020
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Rethinking the Route Towards Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2002.11359.pdf) | - |
+| Combinational Class Activation Maps for Weakly Supervised Object Localization | WACV | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) | - |
+| Evaluating Weakly Supervised Object Localization Methods Right | CVPR | [PDF](https://arxiv.org/pdf/2001.07437.pdf) | [CODE](https://github.com/clovaai/wsolevaluation) |
+
+
+
 ## 2019
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
@@ -9,7 +18,6 @@
 | Learning Instance Activation Maps for Weakly Supervised Instance Segmentation | CVPR | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) | - |
 | Dual-attention Focused Module for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/ftp/arxiv/papers/1909/1909.04813.pdf) | - |
 | Weakly Supervised Object Localization with Inter-Intra Regulated CAMs | arXiv | [PDF](https://arxiv.org/pdf/1911.07160.pdf) | - |
-| Combinational Class Activation Maps for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/1910.05518.pdf) | - |
 | Multi-scale discriminative Region Discovery for Weakly-Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/1909.10698.pdf) | - |
 | Class Activation Map generation by Multiple Level Class Grouping and Orthogonal Constraint | arXiv | [PDF](https://arxiv.org/pdf/1909.09839.pdf) | - |
 | Weakly Supervised Localization Using Background Images | arXiv | [PDF](https://arxiv.org/pdf/1909.03619.pdf) | - |
