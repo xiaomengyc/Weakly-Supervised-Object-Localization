@@ -4,6 +4,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Inter-Image Communication for Weakly Supervised Localization | ECCV | [PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640273.pdf) | [CODE](https://github.com/xiaomengyc/I2C) |
 | Rethinking the Route Towards Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2002.11359.pdf) | - |
 | Combinational Class Activation Maps for Weakly Supervised Object Localization | WACV | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) | - |
 | Evaluating Weakly Supervised Object Localization Methods Right | CVPR | [PDF](https://arxiv.org/pdf/2001.07437.pdf) | [CODE](https://github.com/clovaai/wsolevaluation) |
