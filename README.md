@@ -1,6 +1,14 @@
 # Weakly Supervised Object Localization Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/xiaomengyc/Weakly-Supervised-Object-Localization/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%wsol%papers).
 
+## 2021
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf) | [CODE](https://github.com/Panxjia/SPA_CVPR2021) |
+| Improve CAM with Auto-adapted Segmentation and Co-supervised Augmentation | WACV | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf) | - |
+| Where to Look?: Mining Complementary Image Regions for Weakly Supervised Object Localization | WACV | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Babar_Where_to_Look_Mining_Complementary_Image_Regions_for_Weakly_Supervised_WACV_2021_paper.pdf) | - |
+| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2103.14862.pdf) | - |
+
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
