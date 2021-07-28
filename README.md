@@ -13,7 +13,7 @@
 ## 2020
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
-| Dual-Gradients Localization Framework for Weakly Supervised Object Localization | MM | [PDF](https://dl.acm.org/doi/10.1145/3394171.3413622) | [CODE](https://github.com/chuangchuangtan/DGL) |
+| Dual-Gradients Localization Framework for Weakly Supervised Object Localization | ACMMM | [PDF](https://dl.acm.org/doi/10.1145/3394171.3413622) | [CODE](https://github.com/chuangchuangtan/DGL) |
 | Inter-Image Communication for Weakly Supervised Localization | ECCV | [PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640273.pdf) | [CODE](https://github.com/xiaomengyc/I2C) |
 | Rethinking the Route Towards Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2002.11359.pdf) | - |
 | Combinational Class Activation Maps for Weakly Supervised Object Localization | WACV | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) | [CODE](https://github.com/Yangseung/NL-CCAM) |
