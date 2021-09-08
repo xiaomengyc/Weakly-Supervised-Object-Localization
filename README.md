@@ -4,12 +4,13 @@
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/pdf/2103.14862.pdf) | [CODE](https://github.com/vasgaowei/TS-CAM) |
 |LayerCAM: Exploring Hierarchical Class Activation Maps for Localization | TIP | [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf) | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
 | Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf) | [CODE](https://github.com/Panxjia/SPA_CVPR2021) |
 | Improve CAM with Auto-adapted Segmentation and Co-supervised Augmentation | WACV | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf) | - |
 | Where to Look?: Mining Complementary Image Regions for Weakly Supervised Object Localization | WACV | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Babar_Where_to_Look_Mining_Complementary_Image_Regions_for_Weakly_Supervised_WACV_2021_paper.pdf) | - |
-| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2103.14862.pdf) | [CODE](https://github.com/vasgaowei/TS-CAM) |
 | AlignMix: Improving representation by interpolating aligned features | arXiv | [PDF](https://arxiv.org/pdf/2103.15375.pdf) | - |
+| Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection | arXiv | [PDF](https://arxiv.org/pdf/2108.01785.pdf) | - | 
 
 ## 2020
 | Title | Venue | PDF | CODE |
