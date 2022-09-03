@@ -1,9 +1,16 @@
 # Weakly Supervised Object Localization Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/xiaomengyc/Weakly-Supervised-Object-Localization/issues) or drop me an [e-mail](mailto:solli.zhang@gmail.com?subject=[GitHub]%wsol%papers).
 
+## 2022
+| Title | Venue | PDF | CODE |
+| :-----|:-----:|:---:|:----:|
+| Re-Attention Transformer for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2208.01838.pdf) | [CODE](https://github.com/su-hui-zz/ReAttentionTransformer) |
+| ViTOL: Vision Transformer for Weakly Supervised Object Localization | CVPRW | [PDF](https://arxiv.org/pdf/2204.06772.pdf) | [CODE](https://github.com/Saurav-31/ViTOL) |
+
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Strengthen Learning Tolerance for Weakly Supervised Object Localization | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf) | [CODE](https://github.com/gyguo/SLT-Net) |
 | TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/pdf/2103.14862.pdf) | [CODE](https://github.com/vasgaowei/TS-CAM) |
 |LayerCAM: Exploring Hierarchical Class Activation Maps for Localization | TIP | [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf) | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
 | Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR | [PDF](https://arxiv.org/pdf/2103.04523.pdf) | [CODE](https://github.com/Panxjia/SPA_CVPR2021) |
