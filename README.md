@@ -6,6 +6,7 @@
 | :-----|:-----:|:---:|:----:|
 | Re-Attention Transformer for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2208.01838.pdf) | [CODE](https://github.com/su-hui-zz/ReAttentionTransformer) |
 | ViTOL: Vision Transformer for Weakly Supervised Object Localization | CVPRW | [PDF](https://arxiv.org/pdf/2204.06772.pdf) | [CODE](https://github.com/Saurav-31/ViTOL) |
+| Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration | ECCV | [PDF](https://arxiv.org/pdf/2207.10447.pdf) | [CODE](https://github.com/164140757/scm) |
 
 ## 2021
 | Title | Venue | PDF | CODE |
